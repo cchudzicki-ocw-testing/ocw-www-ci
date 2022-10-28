@@ -4,11 +4,11 @@ draft: false
 image:
   content: ''
   website: ocw-ci-site
-leadquote: Why is it always me?
-location: United Kingdom
-name: Neville Francis Longbottom
-occupation: Wizard
-title: Neville Longbottom
+leadquote: test story quote
+location: test story location
+name: test story name
+occupation: test story occupation
+title: Test Story Title
 uid: cc8a8a34-fced-42a0-ae5d-82b81df8a263
 ---
-Neville is the best.
+test story body
